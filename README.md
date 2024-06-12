@@ -16,4 +16,6 @@ _This repository will try to help everyone running a Linux to start up and monit
 
 - **Bridges, Non-Exit relays vs. Exit relays**: The list and details of bridges are not published almost anywhere; they help where _ordinary_ relays could not. Such places are all over the world where network censorship is strong. Also, your details are not published, and traffic can be limited. Exit relays are the complete opposite, your details are publicly visible and you may receive some letters for your relay which has for example played some role in say _prohibited doing_. I never ran an exit relay, be it on VPS or university or what is the worst idea... at my home, therefore please don't ask me on this topic. However, you may open an issue ticket, and we may chat about what it's like, and in the end, I might decide to publish your findings or some parts of it, anyway. The _Middle_ or Non-Exit relays are my main thing of interest. I ran some bridges too, but deleted them for low traffic, and supposedly low impact. I may be mistaken here, don't take me word by word.
 
-- (content coming in the following days)
+- (More content coming in the following days, let me just quickly attach `nyx` monitoring tool snippet for you _to see_ something useful too.)
+
+  ![nyx](https://github.com/burianvlastimil/tor-relay-tips/assets/14146682/2bca12ec-dcdb-4087-9b79-33087b4e8999)
