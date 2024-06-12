@@ -2,6 +2,18 @@
 
 _This repository will try to help everyone running a Linux to start up and monitor your Tor relay._
 
+```none
+------------------------------------------------------------
+--                     Tor relay tips                     --
+--            Copyright: 2024 Vlastimil Burián            --
+--             Email: info@vlastimilburian.cz             --
+--            GitHub: https://burian.work/tor             --
+--                      License: MIT                      --
+--                 Version: 0.1a (alpha)                  --
+--                 Released: 2024-Jun-12                  --
+------------------------------------------------------------
+```
+
 ## Let's prepare for running a Tor relay on Linux!
 
 - **IPv6**: Make sure you did not forcibly disable IPv6 by GRUB entry `ipv6.disable=1`, in which case Tor wouldn't start at all. I ran into this issue myself several times! 😀
