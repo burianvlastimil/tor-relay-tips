@@ -6,11 +6,11 @@ _This repository will try to help everyone running a Linux to start up and monit
 ------------------------------------------------------------
 --                     Tor relay tips                     --
 --            Copyright: 2024 Vlastimil Burián            --
---             Email: info@vlastimilburian.cz             --
---            GitHub: https://burian.work/tor             --
+--             Bugs: info[]vlastimilburian.cz             --
+--                GitHub: burian.work/tor                 --
 --                      License: MIT                      --
 --                 Version: 0.1a (alpha)                  --
---                 Released: 2024-Jun-12                  --
+--                 Released: 2024-Jun-17                  --
 ------------------------------------------------------------
 ```
 
