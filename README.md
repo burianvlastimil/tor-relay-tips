@@ -30,4 +30,5 @@ _This repository will try to help everyone running a Linux to start up and monit
 
 - (More content coming in the following days, let me just quickly attach `nyx` monitoring tool snippet for you _to see_ something useful too.)
 
-  ![nyx](https://github.com/burianvlastimil/tor-relay-tips/assets/14146682/2bca12ec-dcdb-4087-9b79-33087b4e8999)
+  
+![Tor Nyx monitoring - stable guard](https://github.com/burianvlastimil/tor-relay-tips/assets/14146682/65667692-08fa-41b9-811b-0ed68ead5945)
